@@ -4,6 +4,7 @@
  *      code by Francesco Giacomini <francesco.giacomini@cnaf.infn.it>
  *        https://forum.nginx.org/read.php?29,283413,283421#msg-283421
  *      other modules from nginx
+ *      With code updates by Brandon White <bjwhite@fnal.gov>
  *    */
 
 #include <ngx_core.h>
