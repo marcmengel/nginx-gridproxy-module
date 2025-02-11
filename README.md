@@ -2,7 +2,7 @@
 This is a module for nginx that turns on OpenSSL support for Grid Proxy certificate authentication. 
 
 It is very minimal, and is all cargo-cult at the moment; based on a discussion and code from the 
-mailing list by Francesco Giacomini <francesco.giacomini@cnaf.infn.it>: 
+mailing list by Francesco Giacomini <francesco.giacomini at cnaf.infn.it>: 
  https://forum.nginx.org/read.php?29,283413,283421#msg-283421
 With code rework by Brandon White <bjwhite@fnal.gov> 
 
